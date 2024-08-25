@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SpotifyClone</string>
+    <string name="fav_btn">Favourites</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="playlist_btn">Playlist</string>
+    <string name="Total_songs">Total Songs</string>
+    <string name="World_songs">World Of Songs</string>
+    <string name="SongName">Song Name</string>
+    <string name="Back_btn">Back</string>
+    <string name="start_tv">00:00</string>
+    <string name="end_tv">Loading..</string>
+    <string name="repeat">Repeat</string>
+    <string name="equllizer">Equilizer</string>
+    <string name="timer">Timer</string>
+    <string name="share">share</string>
+    <string name="open">Open</string>
+    <string name="spotify">Spotify</string>
+    <string name="close">Close</string>
+    <string name="icon">Icon</string>
+    <string name="nav_txt">Welcome to,\nWorld of Music</string>
+    <string name="feedback">FeedBack</string>
+    <string name="setting">setting</string>
+    <string name="about">About </string>
+    <string name="exit">Exit </string>
+    <string name="SongAlbum">Album</string>
+</resources>
